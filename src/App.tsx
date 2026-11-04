@@ -3,8 +3,6 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-// Mandatory backend URL declaration at the top of the code
-const BACKEND_URL = "https://qualifications-activists-consumption-concentrate.trycloudflare.com";
 
 import Navbar from './components/Navbar.tsx';
 import Hero from './components/Hero.tsx';
@@ -36,4 +34,4 @@ export default function App() {
     </div>
   );
 }
-export { BACKEND_URL };
+
