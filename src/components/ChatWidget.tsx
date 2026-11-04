@@ -3,7 +3,7 @@ import { MessageSquare, X, Send, ChevronDown, ChevronUp, Bot, User, Sparkles, Al
 import { ChatMessage } from '../types.ts';
 
 // Mandatory backend URL definition as specified
-const BACKEND_URL = "https://blair-census-namely-routers.trycloudflare.com";
+const BACKEND_URL = "https://sodium-influences-wild-workflow.trycloudflare.com";
 
 export default function ChatWidget() {
   const [isOpen, setIsOpen] = useState(false);
